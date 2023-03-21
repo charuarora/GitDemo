@@ -22,6 +22,7 @@ public class MobileEmulatorTest {
 		driver.findElement(By.className("navbar-toggler")).click();
 		Thread.sleep(2000);
 		driver.findElement(By.linkText("Library")).click();
+		System.out.println("HELLOOOOOOO");
 		
 	}
 
