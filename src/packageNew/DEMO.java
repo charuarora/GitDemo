@@ -5,7 +5,7 @@ public class DEMO {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		System.out.println("NEW CLASS ADDED");
+		System.out.println("NEW CLASS ADDED CHECKING NOW !@#$%");
 	}
 
 }
